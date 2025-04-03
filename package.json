@@ -1,0 +1,41 @@
+{
+    "name": "elfawzanlibrary",
+    "version": "1.0.0",
+    "description": "SDK to interact with elfawzanlibrary.net",
+    "source": "src/index.ts",
+    "main": "dist/index.js",
+    "module": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "type": "module",
+    "scripts": {
+        "test": "bun test",
+        "build": "tsup"
+    },
+    "files": [
+        "dist/**/*"
+    ],
+    "keywords": [
+        "islam",
+        "fawzan"
+    ],
+    "author": "Ragaeeb Haq",
+    "license": "MIT",
+    "dependencies": {},
+    "engines": {
+        "bun": ">=1.2.5"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.23.0",
+        "@types/bun": "^1.2.8",
+        "@types/node": "^22.14.0",
+        "eslint": "^9.23.0",
+        "eslint-config-prettier": "^10.1.1",
+        "eslint-plugin-perfectionist": "^4.11.0",
+        "eslint-plugin-prettier": "^5.2.6",
+        "globals": "^16.0.0",
+        "prettier": "^3.5.3",
+        "semantic-release": "^24.2.3",
+        "tsup": "^8.4.0",
+        "typescript-eslint": "^8.29.0"
+    }
+}
