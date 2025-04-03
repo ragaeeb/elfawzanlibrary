@@ -1,12 +1,7 @@
-https://elfawzanlibrary.net/api/Categories/get-main-categories
+# elfawzanlibrary
 
-https://elfawzanlibrary.net/api/Categories/get-sub-cats-by-id?category_id=12
-https://elfawzanlibrary.net/api/Categories/get-folder-books?folder_id=27
-https://elfawzanlibrary.net/api/Categories/get-book-chapters?book_id=58
-https://elfawzanlibrary.net/api/Categories/get-book-sections?book_id=58
-https://elfawzanlibrary.net/api/statistics
-https://elfawzanlibrary.net/api/app-pages
-https://elfawzanlibrary.net/api/Categories/get-chapter-sections?chapter_id=425
-https://elfawzanlibrary.net/api/Categories/get-prev-section?current_section_id=1292&book_id=38
-https://elfawzanlibrary.net/api/Categories/get-section-pages?section_id=1291
-https://elfawzanlibrary.net/api/Categories/get-next-section?current_section_id=1292&book_id=38
+[![wakatime](https://wakatime.com/badge/user/a0b906ce-b8e7-4463-8bce-383238df6d4b/project/8609d64c-1908-45a1-b3ad-677b0a03cb37.svg)](https://wakatime.com/badge/user/a0b906ce-b8e7-4463-8bce-383238df6d4b/project/8609d64c-1908-45a1-b3ad-677b0a03cb37)
+[![Node.js CI](https://github.com/ragaeeb/elfawzanlibrary/actions/workflows/build.yml/badge.svg)](https://github.com/ragaeeb/elfawzanlibrary/actions/workflows/build.yml)
+![GitHub License](https://img.shields.io/github/license/ragaeeb/elfawzanlibrary)
+![GitHub Release](https://img.shields.io/github/v/release/ragaeeb/elfawzanlibrary)
+![typescript](https://badgen.net/badge/icon/typescript?icon=typescript&label&color=blue)
